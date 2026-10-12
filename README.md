@@ -19,6 +19,28 @@ Calculado para **63 kg y 166 cm**, manteniendo el peso. Los pesos de arroz, past
 
 No hace falta pesar todo cada día: con las raciones de abajo te sale solo.
 
+### Cómo repartir el plato
+
+En la comida y la cena, con un plato llano normal (~26 cm):
+
+| Parte del plato | Días suaves (Z2, calistenia, descanso) | Días duros (series, tempo, viernes, tirada larga) | Día antes de test o carrera |
+|---|---|---|---|
+| **Hidratos** (arroz, pasta, patata, pan, legumbre) | ¼ | **½** | **½ o algo más** |
+| **Proteína** (pollo, pescado, huevo, carne, legumbre) | ¼ | ¼ | ¼ |
+| **Verdura** | **½** | ¼ | ¼, cocinada (menos fibra) |
+| **Grasa buena** | 1–2 cucharadas de aceite de oliva | 1 cucharada | 1 cucharada, nada de fritos ni salsas |
+
+```
+      Día suave                  Día duro
+┌───────────┬───────────┐  ┌───────────┬───────────┐
+│           │ Hidratos  │  │           │ Proteína  │
+│  Verdura  ├───────────┤  │ Hidratos  ├───────────┤
+│           │ Proteína  │  │           │  Verdura  │
+└───────────┴───────────┘  └───────────┴───────────┘
+```
+
+Las cantidades de cada parte están justo debajo, en las raciones de referencia. La fruta va aparte (postre, desayuno o merienda).
+
 ### Raciones de referencia
 
 **Hidratos** (por comida principal):
