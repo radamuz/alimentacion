@@ -2,7 +2,7 @@
 
 Pautas de comida para acompañar el [plan sub-20' en 5 km](https://radamuz.github.io/4minkm/plan-sub20-5km.html) y la *strong race* del 7/8 de noviembre de 2026.
 
-Calculado para **63 kg y 166 cm**, manteniendo el peso. Los pesos de arroz, pasta y legumbre van **en crudo**: cocidos pesan unas 2,5–3 veces más.
+Calculado para **63 kg y 166 cm**, manteniendo el peso. Los pesos de arroz, pasta y legumbre van **en crudo** salvo que se indique; en las raciones de referencia (apartado 2) tienes también el peso cocido.
 
 > Son pautas generales para un deportista sano. No es un plan clínico: si tienes alguna condición médica, consúltalo con un dietista-nutricionista.
 
@@ -25,11 +25,14 @@ No hace falta pesar todo cada día: con las raciones de abajo te sale solo.
 
 | Alimento | Día suave | Día duro |
 |---|---|---|
-| Arroz o pasta (crudo) | 80 g | 120–150 g |
+| Arroz | 80 g crudo · ~220 g cocido | 120–150 g crudo · ~330–400 g cocido |
+| Pasta | 80 g cruda · ~190 g cocida | 120–150 g cruda · ~280–350 g cocida |
 | Patata | 250 g | 400 g |
 | Pan | 60 g | 100 g |
-| Legumbre (cruda) | 60 g | 80 g + pan |
+| Legumbre | 60 g cruda · ~150 g cocida (o de bote, escurrida) | 80 g cruda · ~200 g cocida + pan |
 | Copos de avena | 40 g | 60–80 g |
+
+El peso cocido es aproximado (el arroz multiplica por ~2,7, la pasta por ~2,3 y la legumbre por ~2,5) y cambia según cuánto lo cocines. La patata y la avena se pesan tal cual.
 
 **Proteína** (por comida, unos 25–30 g):
 
