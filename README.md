@@ -48,6 +48,109 @@ El peso cocido es aproximado (el arroz multiplica por ~2,7, la pasta por ~2,3 y 
 
 **Fruta y verdura**: 2–3 piezas de fruta al día y un plato de verdura en comida y cena (en días duros, la verdura puede ser medio plato).
 
+<details markdown="1">
+<summary><strong>Lista de frutas</strong> (42)</summary>
+
+| Fruta | Ración | Nota |
+|---|---|---|
+| Plátano | 1 mediano | ⭐ Antes y después de entrenar: rápido de digerir |
+| Dátil | 3 normales o 2 *medjool* | ⭐ Antes de entrenar: mucho azúcar en poco volumen |
+| Manzana | 1 mediana | Mejor lejos del entreno (fibra) |
+| Pera | 1 mediana | Mejor lejos del entreno (fibra) |
+| Naranja | 1 mediana |  |
+| Mandarina | 2 |  |
+| Pomelo | ½ |  |
+| Limón | Para aliñar o en agua |  |
+| Kiwi | 2 |  |
+| Fresa | 8–10 (150 g) |  |
+| Frambuesa | 1 puñado (125 g) |  |
+| Arándano | 1 puñado (125 g) |  |
+| Mora | 1 puñado (125 g) |  |
+| Grosella | 1 puñado (125 g) |  |
+| Cereza | 15–20 |  |
+| Uva | 1 racimo pequeño (150 g) | Buena antes de entrenar |
+| Melocotón | 1 mediano |  |
+| Nectarina | 1 mediana |  |
+| Paraguayo | 2 |  |
+| Albaricoque | 3 |  |
+| Ciruela | 2–3 |  |
+| Mango | ½ |  |
+| Piña | 2 rodajas |  |
+| Papaya | 1 taza (150 g) |  |
+| Melón | 1 tajada (200 g) | Mucha agua: bueno en días de calor |
+| Sandía | 1 tajada (250 g) | Mucha agua: bueno en días de calor |
+| Higo | 2–3 |  |
+| Caqui | 1 |  |
+| Granada | ½ |  |
+| Chirimoya | ½ |  |
+| Níspero | 4–5 |  |
+| Lichi | 8–10 |  |
+| Maracuyá | 2 |  |
+| Pitahaya | ½ |  |
+| Guayaba | 1 |  |
+| Membrillo | Dulce: 1 loncha (30 g) |  |
+| Aguacate | ¼–½ | Cuenta como grasa buena, no como fruta |
+| Coco | 1 trozo (30 g) | Cuenta como grasa |
+| Pasas | 1 puñado pequeño (30 g) | Antes de entrenar, como los dátiles |
+| Orejones (albaricoque seco) | 5–6 | Antes de entrenar, como los dátiles |
+| Ciruelas pasas | 3–4 | Laxantes: no antes de correr |
+| Higos secos | 2–3 | Antes de entrenar, como los dátiles |
+
+</details>
+
+<details markdown="1">
+<summary><strong>Lista de verduras y hortalizas</strong> (43)</summary>
+
+| Verdura | Ración | Nota |
+|---|---|---|
+| Tomate | 1 mediano |  |
+| Lechuga | 1 plato |  |
+| Rúcula | 1 puñado |  |
+| Canónigos | 1 puñado |  |
+| Espinacas | 1 plato (crudas) o 200 g (cocidas) |  |
+| Acelgas | 200 g cocidas |  |
+| Kale (col rizada) | 1 puñado |  |
+| Escarola | 1 plato |  |
+| Endivia | 1–2 |  |
+| Pepino | ½ |  |
+| Pimiento rojo | ½ |  |
+| Pimiento verde | ½ |  |
+| Cebolla | ½ | Cruda puede repetir: evítala antes de correr |
+| Cebolleta | 1 |  |
+| Puerro | 1 |  |
+| Ajo | 1–2 dientes | Crudo, evítalo antes de correr |
+| Zanahoria | 1–2 | También como snack |
+| Calabacín | ½–1 |  |
+| Calabaza | 200 g | Tiene algo de hidratos |
+| Berenjena | ½ |  |
+| Brócoli | 200 g | Gases: mejor lejos del entreno |
+| Coliflor | 200 g | Gases: mejor lejos del entreno |
+| Coles de Bruselas | 150 g | Gases: mejor lejos del entreno |
+| Repollo / col | 150 g | Gases: mejor lejos del entreno |
+| Lombarda | 150 g |  |
+| Judía verde | 200 g |  |
+| Guisantes | 100 g | Tienen bastantes hidratos y proteína |
+| Habas | 100 g | Como los guisantes |
+| Alcachofa | 2 | Fibra: mejor lejos del entreno |
+| Espárrago verde | 1 manojo pequeño |  |
+| Espárrago blanco | 4–5 |  |
+| Champiñón / setas | 150 g |  |
+| Apio | 2 ramas |  |
+| Hinojo | ½ |  |
+| Rábano | 5–6 |  |
+| Remolacha | 1 (cocida) | Los nitratos pueden ayudar algo al rendimiento |
+| Nabo | 1 |  |
+| Chirivía | 1 | Tiene algo de hidratos |
+| Boniato | 200 g | ⭐ Cuenta como hidrato, igual que la patata |
+| Maíz dulce | 1 mazorca o 100 g | Cuenta como hidrato |
+| Borraja | 200 g |  |
+| Germinados | 1 puñado |  |
+| Perejil, cilantro y otras hierbas | Al gusto |  |
+
+</details>
+
+Varía colores a lo largo de la semana. ⭐ = especialmente útil para ti.
+
 **Agua**: 2–2,5 l al día, más lo que sudes. En días de calor o del híbrido, añade una pizca de sal o una bebida isotónica. La orina tiene que ser clara.
 
 ## 3. Tu desayuno
