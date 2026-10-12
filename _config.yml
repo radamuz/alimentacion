@@ -1,0 +1,8 @@
+title: Alimentación
+description: Qué y cuánto comer para el plan 4minkm (sub-20 en 5 km y strong race)
+lang: es
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
